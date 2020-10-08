@@ -1,4 +1,4 @@
-#### Namaste 🙏 
+## Namaste 🙏 
 ### I'm Aman Singh
 
 A linux enthusiastic, knows C/C++, Python and little bit of JavaScript.
