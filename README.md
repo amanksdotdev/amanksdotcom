@@ -1,4 +1,4 @@
-### Namaste 🙏, I'm Aman
+### Namaste 🙏 I'm Aman Singh
 
 
 - 🔭 I’m currently working on Data Structures and Algorithms
