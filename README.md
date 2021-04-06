@@ -1,7 +1,7 @@
 ## Namaste 🙏 
 ### I'm Aman Singh
 
-A linux enthusiastic, Java and JavaScript Programmer.
+A linux enthusiast, Java and JavaScript Programmer.
 
 - 🔭 I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning Frontend Framework.
