@@ -37,7 +37,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=MrAman007&show_icons=true&theme=radical&include_all_commits=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAman007&layout=compact&theme=radical"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=MrAman007&show_icons=true&theme=material-palenight&include_all_commits=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAman007&layout=compact&theme=material-palenight"> |
 | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
 <br>
