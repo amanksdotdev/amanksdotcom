@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrAman007&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
-I'm a Computer Science Undergad expertised in **Frontend** and trying to grow as a Full-stack web developer.
+I'm a Computer Science Undergad trying to grow as a **Full-stack web developer**.
 
 ## Skill Set :muscle:
 
